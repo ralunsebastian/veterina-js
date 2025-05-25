@@ -5,5 +5,12 @@
     "tipo": "perro",
     "color": "blanco",
     "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "adolfito",
+    "edad": "15 años",
+    "tipo": "gato",
+    "color": "romano",
+    "enfermedad": "manias"
   }
 ]

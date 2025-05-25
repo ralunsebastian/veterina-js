@@ -1,0 +1,12 @@
+{
+  "name": "veterinaria",
+  "version": "1.0.0",
+  "description": "desafio 1 node desafio latam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
