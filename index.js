@@ -1,4 +1,4 @@
-// index.js
+
 const { registrar, leer } = require("./operaciones");
 
 const [operacion, nombre, edad, tipo, color, enfermedad] = process.argv.slice(2);

@@ -1,16 +1,16 @@
 [
   {
-    "nombre": "Benito",
-    "edad": "2 años",
-    "tipo": "perro",
-    "color": "blanco",
-    "enfermedad": "vomitos"
-  },
-  {
     "nombre": "adolfito",
     "edad": "15 años",
     "tipo": "gato",
     "color": "romano",
     "enfermedad": "manias"
+  },
+  {
+    "nombre": "rocko",
+    "edad": "10 años",
+    "tipo": "perro",
+    "color": "negro",
+    "enfermedad": "amoroso"
   }
 ]
